@@ -1,7 +1,7 @@
 
 Firstcap development tree
 
-Firstcap is a PoS-based cryptocurrency.
+Firstcap is a Scrypt based cryptocurrency.
 
 Development process
 ===========================
